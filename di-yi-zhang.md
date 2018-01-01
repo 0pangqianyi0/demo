@@ -1,9 +1,16 @@
-#1.1节
+# 1.1节
 
-````javascript
+```javascript
+//javascript
+function fun(){
+    var test = 1212;
+    console.info("中国人的");
+}
+```
 
-````
+# 1.2节
 
-#1.2节
+# 1.3节
 
-#1.3节
+
+

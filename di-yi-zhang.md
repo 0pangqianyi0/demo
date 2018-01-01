@@ -10,7 +10,9 @@ function fun(){
 
 # 1.2节
 
+```java
 
+```
 
 
 

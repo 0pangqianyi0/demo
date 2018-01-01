@@ -11,7 +11,14 @@ function fun(){
 # 1.2节
 
 ```java
-
+class maindemo{
+    private static final String name = "测试用例";
+    private int test;
+    public static void getTestName(){
+        return name;
+    }
+    
+}
 ```
 
 
